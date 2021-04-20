@@ -4,6 +4,7 @@ import com.kennguch.movie.utils.Credentials;
 import com.kennguch.movie.utils.MovieApi;
 
 import retrofit2.Retrofit;
+import retrofit2.converter.gson.GsonConverterFactory;
 
 public class Servicey {
 
